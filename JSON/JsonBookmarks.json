@@ -1,0 +1,15 @@
+[
+	{
+		"title": "folder",
+		"bookmarks": [
+			{
+				"name": "baidu",
+				"url": "http://www.baidu.com"
+			},
+			{
+				"name": "google",
+				"url": "http://www.google.com"
+			}
+		]
+	}
+]
