@@ -1,0 +1,27 @@
+{
+  "name": "sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Usede/sync.git"
+  },
+  "keywords": [
+    "bookmark",
+    "sync"
+  ],
+  "author": "miyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usede/sync/issues"
+  },
+  "homepage": "https://github.com/Usede/sync#readme"
+}
